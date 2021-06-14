@@ -1,0 +1,14 @@
+numpy
+scipy
+sympy
+pandas
+bottleneck
+numexpr
+numba
+matplotlib
+seaborn
+scikit-learn
+xgboost
+jupyter
+basemap
+pyproj
